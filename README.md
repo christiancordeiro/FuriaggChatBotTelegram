@@ -68,7 +68,7 @@ Siga este passo a passo para registrar seu bot e obter o token de acesso:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seuusuario/furia-bot.git
+git clone https://github.com/christiancordeiro/FuriaggChatBotTelegram.git
 cd furia-bot
 ```
 
